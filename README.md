@@ -34,8 +34,7 @@ class AdityaSingh:
     name       = "Aditya Singh"
     location   = "Pune, Maharashtra, India 📍"
     education  = "BCA (Data Science) @ Sri Balaji University, Pune"
-    startup    = "Founder @ InnovaBurst — AI for small businesses"
-
+    
     skills     = ["Data Science", "Machine Learning", "NLP",
                   "Deep Learning", "Power BI", "AI Automation"]
 
