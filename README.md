@@ -1,70 +1,141 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%C3%97%20AI%20Automation&descAlignY=62&descSize=20" width="100%"/>
-<br/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%94%AC;AI+Automation+Builder+%E2%9A%A1;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Workflows+that+Run+Themselves+%F0%9F%A4%96)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:7B5EFF&height=220&section=header&text=Aditya%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Science%20%C3%97%20AI%20Automation&descAlignY=68&descSize=22&descColor=00E5FF" width="100%"/>
 </div>
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=🔬+Data+Science+Student+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🚀+Founder+%40+InnovaBurst;🟢+Open+to+Data+Analyst+Roles)
+</div>
+<br/>
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00E5FF)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
+<br/>
 ---
-👋 About Me
+🧠 Who Am I?
 ```python
-aditya = {
-    "name"       : "Aditya Singh",
-    "role"       : ["Data Science Student", "AI Automation Builder", "Founder @ InnovaBurst"],
-    "location"   : "Pune, Maharashtra, India 📍",
-    "education"  : "BCA (Data Science) @ Sri Balaji University, Pune",
-    "focus"      : ["Data Science", "Machine Learning", "AI Automation", "Power BI"],
-    "building"   : "AI agents & automation workflows for real businesses",
-    "open_to"    : ["Data Analyst roles", "AI Automation Engineer roles"],
-    "belief"     : "Data without action is noise. Automation without data is guessing."
-}
+class AdityaSingh:
+
+    name       = "Aditya Singh"
+    location   = "Pune, Maharashtra, India 📍"
+    education  = "BCA (Data Science) @ Sri Balaji University, Pune"
+    startup    = "Founder @ InnovaBurst — AI for small businesses"
+
+    skills     = ["Data Science", "Machine Learning", "NLP",
+                  "Deep Learning", "Power BI", "AI Automation"]
+
+    tools      = ["Python", "SQL", "n8n", "Power BI",
+                  "TensorFlow", "PyTorch", "LLMs", "Streamlit"]
+
+    currently  = "Building AI agents & automation workflows 🤖"
+    open_to    = ["Data Analyst", "AI Automation Engineer"]
+
+    def belief(self):
+        return "Data without action is noise. Automation without data is guessing. 💡"
 ```
 ---
 🛠️ Tech Stack
-Data Science & Analysis
+<div align="center">
+🐍 Data Science & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-BI & Visualization
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+📊 BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-Machine Learning & AI
+🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-AI Automation
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+⚡ AI Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
+</div>
 ---
-🚀 Projects
+🚀 Projects I've Shipped
+<table>
+<tr>
+<td width="50%" valign="top">
 🏙️ Smart City Analytics Dashboard
-> **Power BI · DAX · Power Query · Shape Maps**
-A multi-page urban intelligence platform monitoring crime risk, pollution zones, traffic flow, and population distribution across city sectors. Built with futuristic neon UI design and custom Power BI visuals.
----
-🤖 WhatsApp AI Agent for Businesses
-> **n8n · LLMs · WhatsApp API · Webhooks**
-Production-ready AI agent for clinics, restaurants, and SMBs. Handles customer queries 24/7, filters spam automatically, retains full conversation memory, sends instant intelligent replies — zero human effort after setup.
----
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
+Multi-page urban intelligence platform monitoring crime zones, pollution risk, traffic flow & population distribution across city sectors with futuristic neon UI design.
+</td>
+<td width="50%" valign="top">
+🤖 WhatsApp AI Agent
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![WhatsApp](https://img.shields.io/badge/API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+Production-ready AI agent for businesses — handles queries 24/7, ignores spam, retains conversation memory, zero human effort after deployment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 💬 InnovaBurst AI Chatbot
-> **n8n · OpenRouter · Webhooks · WhatsApp + Web**
-Built for my startup InnovaBurst. Handles 24/7 conversations, qualifies leads, books appointments, and runs simultaneously on websites and WhatsApp. Full automation workflow — not just a chatbot.
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=flat-square)
+Built for my startup. Qualifies leads, books appointments, runs on Web + WhatsApp simultaneously. Full automation — not just a chatbot.
+</td>
+<td width="50%" valign="top">
+🎭 Fake Influencer Detector
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square)
+ML-powered web app to detect fake influencers & analyze brand trust scores using classification models + interactive Plotly dashboards.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🍽️ Restaurant Virtual Assistant
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+End-to-end Telegram booking bot → captures data to Sheets, sends email confirmations & tracks on live dashboard. Zero manual input.
+</td>
+<td width="50%" valign="top">
+🌐 Personal Portfolio
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Dark-themed portfolio showcasing all projects, skills, and certifications. Hosted on Netlify.
+🔗 Visit Portfolio →
+</td>
+</tr>
+</table>
 ---
-🍽️ Restaurant Virtual Assistant (Telegram Bot)
-> **Telegram API · n8n · Google Sheets · Power BI**
-End-to-end restaurant booking automation. Captures customer data → Google Sheets, sends email confirmations and reminders, tracks everything on a live dashboard. Zero manual input required.
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=E8EDF5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E8EDF5" height="165"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B5EFF&currStreakLabel=00E5FF" width="60%"/>
+</div>
+<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&bg_color=0D1117&color=00E5FF&line=7B5EFF&point=00FF94&area=true&hide_border=true)
+</div>
 ---
-🎭 AI-Powered Fake Influencer Detection
-> **Python · Streamlit · Plotly · Scikit-learn · Pandas**
-ML-powered web app to identify fake influencers and analyze brand trust metrics. Combines predictive classification with interactive dashboards built in Streamlit and Plotly.
+🏆 GitHub Trophies
+<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aditya-Rajput-00&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+</div>
 ---
-📜 Certifications Highlights
-Certificate	Issuer	Year
+📜 Top Certifications
+🏅 Certificate	🏢 Issuer	📅 Year
 Advanced NLP with Python for ML	LinkedIn Learning	2026
 LLMs: Text Classification using BERT	LinkedIn Learning	2026
 PyTorch Essential Training: Deep Learning	LinkedIn Learning	2026
@@ -74,20 +145,21 @@ SQL for Data Analysis	LinkedIn Learning	2025
 Data Modeling with Power BI: Advanced DAX	Coursera	2025
 Power BI: Interactive Dashboard Fundamentals	Coursera	2025
 ---
-📊 GitHub Stats
+💡 A Thought I Live By
 <div align="center">
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+> ### *"Data without action is just noise.*
+> ### *Automation without data is just guessing.*
+> ### *I build at the intersection of both."*
+>
+> — Aditya Singh
 </div>
 ---
-🤝 Connect With Me
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+🤝 Let's Build Something Together
+![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00E5FF)
+![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5EFF,50:00E5FF,100:0D1117&height=120&section=footer" width="100%"/>
 </div>
