@@ -47,18 +47,7 @@ class AdityaSingh:
     def belief(self):
         return "Data without action is noise. Automation without data is guessing. 💡"
 
-# Create object
-me = AdityaSingh()
 
-# Print attributes
-print("Name:", me.name)
-print("Location:", me.location)
-print("Education:", me.education)
-print("Skills:", me.skills)
-print("Tools:", me.tools)
-print("Currently:", me.currently)
-print("Open To:", me.open_to)
-print("Belief:", me.belief())
 ```
 
 ---
