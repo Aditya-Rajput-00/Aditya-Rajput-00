@@ -14,9 +14,15 @@
 
 ---
 
-<img align="right" alt="AI Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ### 👋 Hey, I'm Aditya
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 🎓 **BCA (Data Science)** @ Sri Balaji University, Pune
 
@@ -28,7 +34,7 @@
 
 📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🟢 Open to work
 
-<br/><br/><br/>
+</div>
 
 ---
 
