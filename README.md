@@ -37,63 +37,62 @@
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/python" width="40" height="40" alt="Python"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/mysql" width="40" height="40" alt="SQL"/><br/>
-<sub><b>SQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/pandas" width="40" height="40" alt="Pandas"/><br/>
-<sub><b>Pandas</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/numpy" width="40" height="40" alt="NumPy"/><br/>
-<sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/scikitlearn" width="40" height="40" alt="Sklearn"/><br/>
-<sub><b>Scikit-learn</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/tensorflow" width="40" height="40" alt="TensorFlow"/><br/>
-<sub><b>TensorFlow</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/pytorch" width="40" height="40" alt="PyTorch"/><br/>
-<sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/tableau" width="40" height="40" alt="Tableau"/><br/>
-<sub><b>Tableau</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/streamlit" width="40" height="40" alt="Streamlit"/><br/>
-<sub><b>Streamlit</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/plotly" width="40" height="40" alt="Plotly"/><br/>
-<sub><b>Plotly</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/googlesheets" width="40" height="40" alt="Sheets"/><br/>
-<sub><b>Google Sheets</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://techicons.dev/icons/huggingface" width="40" height="40" alt="HuggingFace"/><br/>
-<sub><b>HuggingFace</b></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+      <br/><sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+      <br/><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+      <br/><sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+      <br/><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+      <br/><sub><b>PyTorch</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+      <br/><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45" alt="Kaggle"/>
+      <br/><sub><b>Kaggle</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+      <br/><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
+      <br/><sub><b>VSCode</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- Skill progress bars as animated SVG badges -->
 ![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-★★★★☆-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -113,15 +112,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true" height="170"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6" height="170"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6" height="170"/>
 
 </div>
 
@@ -142,28 +135,27 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adityasingh00-ai/">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://aditya-datascience-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Portfolio-000000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/aditya.singh.00/">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%B8%20Instagram-E4405F?style=for-the-badge&logoColor=white&labelColor=E4405F" />
+  <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:adityasinghstudent2002@gmail.com">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Gmail-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/📧%20Gmail-EA4335?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
 </picture>
 
 <br/>
