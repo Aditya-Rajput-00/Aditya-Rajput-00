@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=250&section=header&text=Aditya%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=2&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder%20%E2%9C%A6%20Founder%20%40%20InnovaBurst&descSize=17&descColor=ffffff&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=160&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=1&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder&descSize=14&descColor=cccccc&descAlignY=74" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation;🤖+WhatsApp+Agents+%7C+Power+BI+%7C+n8n;📊+Turning+Raw+Data+into+Decisions;🚀+Founder+%40+InnovaBurst;🟢+Open+to+Data+Analyst+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=620&height=45&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🤖+WhatsApp+Agents+%7C+Smart+Dashboards;🟢+Open+to+Data+Analyst+%26+AI+Roles)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="AI Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👋 Hey, I'm Aditya
 
@@ -20,38 +22,13 @@
 
 🧠 I sit at the intersection of **Data Science** and **AI Automation** — I don't just study these fields, I build inside them
 
-⚡ **Founder @ InnovaBurst** — building AI products for real businesses that can't afford a tech team
+⚡ Shipped **WhatsApp AI agents**, **smart city dashboards**, **ML tools** and **automation workflows** — all production-ready
 
-🔭 Currently building **AI agents & automation workflows** that run 24/7 with zero human effort
-
-💡 **My belief →** *Data without action is noise. Automation without data is guessing.*
+💡 *"Data without action is noise. Automation without data is guessing."*
 
 📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🟢 Open to work
 
-<br clear="right"/>
-
----
-
-### 🚀 Projects I've Shipped
-
-<div align="center">
-
-| 🏙️ Smart City Dashboard | 🤖 WhatsApp AI Agent |
-|:---:|:---:|
-| Multi-page Power BI report tracking **crime zones**, **pollution risk**, **traffic flow** & **population** across a city | Production AI agent for businesses — handles queries **24/7**, filters spam, retains memory |
-| `Power BI` `DAX` `Power Query` `Shape Maps` | `n8n` `LLMs` `WhatsApp API` `Webhooks` |
-
-| 💬 InnovaBurst AI Chatbot | 🎭 Fake Influencer Detector |
-|:---:|:---:|
-| Built for my startup — qualifies leads, books appointments, works on **Web + WhatsApp** simultaneously | ML app detecting fake influencers & analyzing brand trust using classification + Plotly |
-| `n8n` `OpenRouter` `Webhooks` `WhatsApp` | `Python` `Streamlit` `Plotly` `Scikit-learn` |
-
-| 🍽️ Restaurant Virtual Assistant | | 
-|:---:|:---:|
-| Full Telegram booking bot — stores to Sheets, sends email confirmations, tracks on live dashboard. **Zero manual input.** | |
-| `Telegram API` `n8n` `Google Sheets` `Power BI` | |
-
-</div>
+<br/><br/><br/>
 
 ---
 
@@ -59,33 +36,74 @@
 
 <div align="center">
 
-#### 🐍 Data Science & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/python" width="40" height="40" alt="Python"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/mysql" width="40" height="40" alt="SQL"/><br/>
+<sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/pandas" width="40" height="40" alt="Pandas"/><br/>
+<sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/numpy" width="40" height="40" alt="NumPy"/><br/>
+<sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/scikitlearn" width="40" height="40" alt="Sklearn"/><br/>
+<sub><b>Scikit-learn</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/tensorflow" width="40" height="40" alt="TensorFlow"/><br/>
+<sub><b>TensorFlow</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/pytorch" width="40" height="40" alt="PyTorch"/><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/tableau" width="40" height="40" alt="Tableau"/><br/>
+<sub><b>Tableau</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/streamlit" width="40" height="40" alt="Streamlit"/><br/>
+<sub><b>Streamlit</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/plotly" width="40" height="40" alt="Plotly"/><br/>
+<sub><b>Plotly</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/googlesheets" width="40" height="40" alt="Sheets"/><br/>
+<sub><b>Google Sheets</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://techicons.dev/icons/huggingface" width="40" height="40" alt="HuggingFace"/><br/>
+<sub><b>HuggingFace</b></sub>
+</td>
+</tr>
+</table>
 
-#### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
-#### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### ⚡ AI Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
+<!-- Skill progress bars as animated SVG badges -->
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-★★★★☆-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-★★★★★-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★☆☆-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-★★★☆☆-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-★★★★☆-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-★★★☆☆-7B5EFF?style=flat-square&logo=huggingface&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-★★★★★-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-★★★☆☆-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
@@ -95,61 +113,65 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=E8EDF5&ring_color=00E5FF" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true" height="170"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6" height="170"/>
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B5EFF&currStreakLabel=00E5FF&sideLabels=7B5EFF&dates=888888&stroke=0D1117" width="52%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&bg_color=0D1117&color=00E5FF&line=7B5EFF&point=00FF94&area=true&hide_border=true&area_color=7B5EFF&radius=6" width="95%"/>
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adityasingh00-ai/">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E8EDF5" height="180"/>
+<a href="https://aditya-datascience-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Portfolio-000000?style=for-the-badge&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/aditya.singh.00/">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%B8%20Instagram-E4405F?style=for-the-badge&logoColor=white&labelColor=E4405F" />
+</a>
+&nbsp;
+<a href="mailto:adityasinghstudent2002@gmail.com">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Gmail-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335" />
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B5EFF&currStreakLabel=00E5FF&sideLabels=E8EDF5&dates=7A8A9E" width="55%"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&bg_color=0D1117&color=00E5FF&line=7B5EFF&point=00FF94&area=true&hide_border=true&area_color=7B5EFF)
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aditya-Rajput-00&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6)
-
-</div>
-
----
-
-### 💬 A Quote I Live By
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://aditya-datascience-portfolio.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aditya.singh.00/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
+</picture>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=for-the-badge&label=👀+PROFILE+VIEWS)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=130&section=footer" width="100%"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=110&section=footer" width="100%"/>
 </div>
