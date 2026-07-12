@@ -1,22 +1,14 @@
 <div align="center">
 
-<!-- HEADER: Character sitting on name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=20&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1d4f.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px"/>
+&nbsp; Aditya Singh &nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px"/>
+</h2>
 
-<br/>
-
-```
- █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=560&height=35&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=32&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles"/>
 
 <br/>
 
@@ -183,8 +175,6 @@ and **AI Automation** — not just studying, shipping
 <img src="https://user-images.githubusercontent.com/74038190/212257457-17ca8d76-ec73-42d3-8baa-fa3abcca498e.gif" width="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-
-<br/><br/>
 
 </div>
 
