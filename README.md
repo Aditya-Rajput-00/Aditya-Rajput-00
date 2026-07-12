@@ -1,40 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=160&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=1&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder&descSize=14&descColor=cccccc&descAlignY=74" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+
+# Aditya Singh
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=35&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles" alt="Typing SVG"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aditya-datascience-portfolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aditya.singh.00/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=flat-square&label=views)
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=620&height=45&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🤖+WhatsApp+Agents+%7C+Smart+Dashboards;🟢+Open+to+Data+Analyst+%26+AI+Roles)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
 
 ---
 
 ### 👋 Hey, I'm Aditya
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
-</div>
-
-<br/>
-
-<div align="center">
-
 🎓 **BCA (Data Science)** @ Sri Balaji University, Pune
-
-🧠 I sit at the intersection of **Data Science** and **AI Automation** — I don't just study these fields, I build inside them
-
-⚡ Shipped **WhatsApp AI agents**, **smart city dashboards**, **ML tools** and **automation workflows** — all production-ready
-
+🧠 I build at the intersection of **Data Science** and **AI Automation**
+⚡ Shipped **WhatsApp AI agents**, **smart city dashboards**, **ML tools** — all production-ready
 💡 *"Data without action is noise. Automation without data is guessing."*
-
-📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🟢 Open to work
-
-</div>
+📍 Pune, India &nbsp;|&nbsp; 🟢 Open to work
 
 ---
 
@@ -164,12 +152,8 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
 </picture>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=for-the-badge&label=👀+PROFILE+VIEWS)
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=100&section=footer" width="100%"/>
 </div>
