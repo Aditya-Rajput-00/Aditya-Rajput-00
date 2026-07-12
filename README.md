@@ -118,20 +118,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true" width="52%"/>
+<img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B5EFF&currStreakLabel=00E5FF&sideLabels=7B5EFF&dates=888888&stroke=0D1117" width="52%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&bg_color=1a1b27&color=00E5FF&line=7B5EFF&point=00FF94&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&bg_color=0D1117&color=00E5FF&line=7B5EFF&point=00FF94&area=true&hide_border=true&area_color=7B5EFF&radius=6" width="95%"/>
 </div>
 
 ---
