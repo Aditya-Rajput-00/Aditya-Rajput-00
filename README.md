@@ -1,13 +1,20 @@
 <div align="center">
 
-<!-- HEADER: Robot + Name + Robot -->
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=380&height=60&lines=Aditya+Singh" alt="Aditya Singh"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" style="transform:scaleX(-1)"/>
+<!-- HEADER: Character sitting on name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=20&section=header" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 <br/>
+
+```
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=560&height=35&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles" alt="Typing SVG"/>
 
@@ -23,7 +30,6 @@
 
 ---
 
-<!-- ABOUT: text left, coder GIF right -->
 <img align="right" alt="Coder GIF" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👋 Hey, I'm Aditya
@@ -165,7 +171,6 @@ and **AI Automation** — not just studying, shipping
 
 <br/><br/>
 
-<!-- CODER STYLE BOTTOM: matrix rain GIF + terminal vibe -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%"/>
 
 <br/>
