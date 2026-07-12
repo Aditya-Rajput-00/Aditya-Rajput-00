@@ -117,14 +117,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7B5EFF&text_color=ffffff&ring_color=7B5EFF&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=donut&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=Aditya-Rajput-00&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B5EFF&currStreakLabel=00E5FF&sideLabels=7B5EFF&dates=888888&stroke=0D1117" width="52%"/>
 </div>
 
