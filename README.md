@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=160&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=1&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder&descSize=14&descColor=cccccc&descAlignY=74" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=120&section=header&text=Aditya%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=1&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder&descSize=12&descColor=cccccc&descAlignY=72" width="80%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=620&height=45&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🤖+WhatsApp+Agents+%7C+Smart+Dashboards;🟢+Open+to+Data+Analyst+%26+AI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=520&height=36&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🤖+WhatsApp+Agents+%7C+Smart+Dashboards;🟢+Open+to+Data+Analyst+%26+AI+Roles)](https://git.io/typing-svg)
 
 </div>
 
