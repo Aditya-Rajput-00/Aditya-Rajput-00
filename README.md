@@ -1,45 +1,40 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1d4f.gif" width="100%"/>
-
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px"/>
-&nbsp; Aditya Singh &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px"/>
-</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=32&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles"/>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aditya-datascience-portfolio.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aditya.singh.00/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=flat-square&label=views)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:7B5EFF,100:00FF94&height=160&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00E5FF&strokeWidth=1&desc=Data%20Scientist%20%E2%9C%A6%20AI%20Automation%20Builder&descSize=14&descColor=cccccc&descAlignY=74" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
-<img align="right" alt="Coder GIF" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=620&height=45&lines=🔬+BCA+Data+Science+%40+SBUP+Pune;⚡+Building+Real+AI+Automation+Workflows;📊+Power+BI+%7C+Python+%7C+n8n+%7C+LLMs;🤖+WhatsApp+Agents+%7C+Smart+Dashboards;🟢+Open+to+Data+Analyst+%26+AI+Roles)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
 
 ### 👋 Hey, I'm Aditya
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+</div>
+
+<br/>
+
+<div align="center">
+
 🎓 **BCA (Data Science)** @ Sri Balaji University, Pune
 
-🧠 I build at the intersection of **Data Science**
-and **AI Automation** — not just studying, shipping
+🧠 I sit at the intersection of **Data Science** and **AI Automation** — I don't just study these fields, I build inside them
 
-⚡ **WhatsApp AI agents · Smart City Dashboards**
-**ML tools · Automation workflows** — all live
+⚡ Shipped **WhatsApp AI agents**, **smart city dashboards**, **ML tools** and **automation workflows** — all production-ready
 
-💡 *"Data without action is noise.*
-*Automation without data is guessing."*
+💡 *"Data without action is noise. Automation without data is guessing."*
 
-📍 Pune, India &nbsp;|&nbsp; 🟢 Open to work
+📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🟢 Open to work
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -163,21 +158,18 @@ and **AI Automation** — not just studying, shipping
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
+</picture>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7808-4fbd-b15c-3b57e87d1c7b.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257457-17ca8d76-ec73-42d3-8baa-fa3abcca498e.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=for-the-badge&label=👀+PROFILE+VIEWS)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00E5FF,100:7B5EFF&height=110&section=footer" width="100%"/>
 </div>
