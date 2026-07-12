@@ -1,28 +1,47 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+<!-- HEADER: Robot + Name + Robot -->
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=380&height=60&lines=Aditya+Singh" alt="Aditya Singh"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" style="transform:scaleX(-1)"/>
 
-# Aditya Singh
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=500&height=35&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=560&height=35&lines=🔬+Data+Science+%40+SBUP+Pune;⚡+AI+Automation+Builder;📊+Power+BI+·+Python+·+n8n+·+LLMs;🤖+Building+Things+That+Think;🟢+Open+to+Data+Analyst+Roles" alt="Typing SVG"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aditya-datascience-portfolio.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aditya.singh.00/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=flat-square&label=views)
+![Views](https://komarev.com/ghpvc/?username=Aditya-Rajput-00&color=00E5FF&style=flat-square&label=views)
 
 </div>
 
 ---
 
+<!-- ABOUT: text left, coder GIF right -->
+<img align="right" alt="Coder GIF" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ### 👋 Hey, I'm Aditya
 
 🎓 **BCA (Data Science)** @ Sri Balaji University, Pune
-🧠 I build at the intersection of **Data Science** and **AI Automation**
-⚡ Shipped **WhatsApp AI agents**, **smart city dashboards**, **ML tools** — all production-ready
-💡 *"Data without action is noise. Automation without data is guessing."*
+
+🧠 I build at the intersection of **Data Science**
+and **AI Automation** — not just studying, shipping
+
+⚡ **WhatsApp AI agents · Smart City Dashboards**
+**ML tools · Automation workflows** — all live
+
+💡 *"Data without action is noise.*
+*Automation without data is guessing."*
+
 📍 Pune, India &nbsp;|&nbsp; 🟢 Open to work
+
+<br clear="right"/>
 
 ---
 
@@ -146,11 +165,21 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%">
-</picture>
+<!-- CODER STYLE BOTTOM: matrix rain GIF + terminal vibe -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7808-4fbd-b15c-3b57e87d1c7b.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257457-17ca8d76-ec73-42d3-8baa-fa3abcca498e.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+
+<br/><br/>
 
 </div>
 
