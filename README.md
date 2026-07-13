@@ -1,94 +1,99 @@
+<div align="center">
+
+<img src="./assets/ascii_face.png" alt="Aditya Singh" width="480"/>
+
 # Aditya Singh
 
-```
-                                                                                             aditya singh
-                                                                                             
-                                                                                             OS: Windows 11
-                                                                                             Uptime: 22 years
-                                  .......:.::............                                    Host: BCA (Data Science) @ Sri Balaji University, Pune
-                             ..::::::::::::::..:::.::::::::::...                             Role: Data Science Student, AI & Data Analytics
-                        ..::::::-::-:::::::::::::::::::::::::::::::.                               Enthusiast, Power BI Developer
-                     .:::::--::----::--:::::::::::::::::::-::---------:                      Shell: VS Code, Cursor, Git, Power BI Desktop
-                  ..::::-----------------:--:::::::-::-----------=======-.                   
-                .::::------==---==-=-----=--==--:.:::::------=-===========-:                 Languages.Programming: Python, SQL, JavaScript, HTML, CSS, DAX
-              .:::::-----==========:.  .:::-::::::....  :-==============++++=:               Languages.Spoken: English, Hindi
-            .:::::----======+++-.               .....     :===========++++++=+=:             
-           :::::-----====++++==.                           .=+++=++++++++*++++++-.           Modules.Backend: Python, Streamlit, Flask, REST APIs
-         .::::------====+++++++.        :==---=+=:          :+++++++++******+++++=:          Modules.Frontend: HTML, CSS, JavaScript
-        .::::-------===+===++++=.    .-+#%%%%%%%%#+=:       .+++++++**********+=++=:         Modules.Data&AI: Pandas, NumPy, Scikit-learn, TensorFlow, Power BI
-       :::::------===++++++++++:    :=+*#%@%@@@%%%#**+-     =++++++********+***+++++-        
-      ::::------=====+++*******-    -+++*#%%%%%##*+++++:   -++++***************++++++-       Contact.Email: adityasinghstudent2002@gmail.com
-     .:::-------====++++*****+**.  :-:--:.:-*#+-::=+=-=+. .+++****#****#*****++**+++++:      Contact.Portfolio: aditya-datascience-portfolio.netlify.app
-    .--:-----===-==+++++*+++++**=  -:..::-:-#%*=--:--=++:.-++*******************++++++=.     Contact.LinkedIn: linkedin.com/in/adityasingh00-ai
-    :--------====+++++++++******-..=++==+***%@%*##**###*=+++******#*#************++++++-     Contact.GitHub: github.com/Aditya-Rajput-00
-   .---------====+++++++********-:.=*%%%%%##%%#*#%@@@%*+-+*******#####*##*****+++++++++=:    
-   :-::::::::====++++=+*********+=::-+#%%#*-.---*%%%#*+=-********#**#####******+++++++==-    aditya@github ~ $ _
-   ------------==+++++++**********=.:-=++++:.:.:-=+**+=:-*#****#*####******#****+*++++===    
-  .-----------===+++++++****##****+. .--...:===-::.-+--.-******#####**********+++++++++==.   
-  .-----========+++*+*************#=  .::====-==+++=-:..+*****######********+=++++++++===:   
-  .-----========+++++***************-  .:=++=--=++=-:  -*******###****##*********+++++=+=:   
-  .--==========+++++***+*********#*+-       .        .--:=*************#*******++++++====.   
-   ----========++++++************=.  .            .:-==:  .=*******************+++++++++=    
-   :-=-=====+=-==++++=+********=.    :.     ..:---=++++:    :+*****##**************++=++-    
-   .---======++=+++++++*****+-.      :-:.. ..:-===+++++-      :=*##**##***+++++==+++==+=.    
-    -----=====+++++++***+=:.        .--==-.:--==++**+++-        .:==+***+++++++**+++++=-     
-    .-===-===++++++++++-..          .-===+=--==++*****=.           .=+**+++****++++=++=.     
-     :-====+++=+++=-:.  ..    .       :--=+====+**++=:               .:-+***+++=+++==+:      
-      :====--=--:...   ..     .           .:..:::.                    ....:-+****+=++-       
-       :--+=-......   ....   ..                                     .. ...  ..-=++++-        
-        :=:.    ..  ......   ..                                    .... ........:-+:         
-         .      .                                                   .......                  
-                                                                                  ..         
-                                                                                 .:-:        
-                                                                                 :+*=.       
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
+*Data Science Student &nbsp;•&nbsp; AI &amp; Data Analytics Enthusiast &nbsp;•&nbsp; Power BI Developer*
+
+</div>
+
+<br>
+
+<div align="center">
+
+![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-FFD166?style=for-the-badge&logoColor=black)
+
+![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University%2C%20Pune-EF476F?style=for-the-badge)
+![Degree](https://img.shields.io/badge/Degree-BCA%20(Data%20Science)-118AB2?style=for-the-badge)
+
+</div>
+
+<br>
+
+## 🖥️ &nbsp;About Me
+
+```yaml
+whoami: Aditya Singh
+role:
+  - Data Science Student
+  - AI & Data Analytics Enthusiast
+  - Power BI Developer
+host: BCA (Data Science) @ Sri Balaji University, Pune
+shell: [VS Code, Cursor, Git, Power BI Desktop, Jupyter Notebook]
+languages:
+  spoken: [English, Hindi]
+  programming: [Python, SQL, JavaScript, HTML, CSS, DAX]
 ```
 
-<h3 align="center">🚀 Data Science Student | AI & Data Analytics Enthusiast | Power BI Developer</h3>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajput-00&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+## 🧩 &nbsp;Modules
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<h3 align="center">🛠️ Tech Stack</h3>
+**Backend**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+**Frontend**
+&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<h3 align="center">📫 Connect with me</h3>
+**Data &amp; AI**
+&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<p align="center">
-  <a href="mailto:adityasinghstudent2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://aditya-datascience-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adityasingh00-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
-<p align="center"><i>“Turning data into decisions, one insight at a time.”</i></p>
+<br>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajput-00&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
+
+</div>
+
+<br>
+
+## 📫 &nbsp;Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-datascience-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai)
+
+</div>
+
+<div align="center">
+
+*"Turning data into decisions, one insight at a time."*
+
+</div>
