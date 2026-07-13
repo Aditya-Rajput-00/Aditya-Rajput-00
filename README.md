@@ -1,59 +1,64 @@
 <div align="center">
 
-# Aditya Singh
+<img src="./assets/ascii_face.png" alt="Aditya Singh" width="340"/>
 
-*Data Science Student &nbsp;•&nbsp; AI &amp; Data Analytics Enthusiast &nbsp;•&nbsp; Power BI Developer*
+<a href="https://github.com/Aditya-Rajput-00">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=06D6A0&center=true&vCenter=true&width=600&lines=Aditya+Singh;Data+Science+Student;AI+%26+Data+Analytics+Enthusiast;Power+BI+Developer" alt="Typing SVG" />
+</a>
+
+<br>
+
+![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
+![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University-EF476F?style=for-the-badge)
 
 </div>
 
 <br>
 
-<img src="./assets/ascii_face.png" alt="Aditya Singh" align="left" width="280"/>
+## 🖥️&nbsp; About Me
 
-## 🖥️ &nbsp;About Me
-
-```yaml
-whoami: Aditya Singh
-role:
-  - Data Science Student
-  - AI & Data Analytics Enthusiast
-  - Power BI Developer
-host: BCA (Data Science) @ Sri Balaji University, Pune
-shell: [VS Code, Cursor, Git, Power BI Desktop, Jupyter Notebook]
-languages:
-  spoken: [English, Hindi]
-  programming: [Python, SQL, JavaScript, HTML, CSS, DAX]
-```
-
-![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-FFD166?style=for-the-badge&logoColor=black)
-![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University-EF476F?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-BCA%20(Data%20Science)-118AB2?style=for-the-badge)
-
-<br clear="left"/>
+<table>
+<tr>
+<td><b>🎓 Education</b></td>
+<td>BCA (Data Science) @ Sri Balaji University, Pune</td>
+</tr>
+<tr>
+<td><b>💼 Role</b></td>
+<td>Data Science Student · AI &amp; Data Analytics Enthusiast · Power BI Developer</td>
+</tr>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>VS Code · Cursor · Git · Power BI Desktop · Jupyter Notebook</td>
+</tr>
+<tr>
+<td><b>🗣️ Languages</b></td>
+<td>English · Hindi</td>
+</tr>
+<tr>
+<td><b>💻 Programming</b></td>
+<td>Python · SQL · JavaScript · HTML · CSS · DAX</td>
+</tr>
+</table>
 
 <br>
 
-## 🧩 &nbsp;Modules
+## 🧩&nbsp; Tech Stack
 
 <div align="center">
 
-**Backend**
-&nbsp;
+<br><b>Backend</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-**Frontend**
-&nbsp;
+<br><b>Frontend</b><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Data &amp; AI**
-&nbsp;
+<br><b>Data &amp; AI</b><br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -64,7 +69,7 @@ languages:
 
 <br>
 
-## 📊 &nbsp;GitHub Stats
+## 📊&nbsp; GitHub Stats
 
 <div align="center">
 
@@ -77,7 +82,7 @@ languages:
 
 <br>
 
-## 📫 &nbsp;Connect with Me
+## 📫&nbsp; Connect with Me
 
 <div align="center">
 
@@ -88,6 +93,8 @@ languages:
 </div>
 
 <div align="center">
+
+<br>
 
 *"Turning data into decisions, one insight at a time."*
 
