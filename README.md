@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/ascii_face.png" alt="Aditya Singh" width="480"/>
-
 # Aditya Singh
 
 *Data Science Student &nbsp;•&nbsp; AI &amp; Data Analytics Enthusiast &nbsp;•&nbsp; Power BI Developer*
@@ -10,18 +8,7 @@
 
 <br>
 
-<div align="center">
-
-![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-FFD166?style=for-the-badge&logoColor=black)
-
-![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University%2C%20Pune-EF476F?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-BCA%20(Data%20Science)-118AB2?style=for-the-badge)
-
-</div>
-
-<br>
+<img src="./assets/ascii_face.png" alt="Aditya Singh" align="left" width="280"/>
 
 ## 🖥️ &nbsp;About Me
 
@@ -37,6 +24,14 @@ languages:
   spoken: [English, Hindi]
   programming: [Python, SQL, JavaScript, HTML, CSS, DAX]
 ```
+
+![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-FFD166?style=for-the-badge&logoColor=black)
+![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University-EF476F?style=for-the-badge)
+![Degree](https://img.shields.io/badge/Degree-BCA%20(Data%20Science)-118AB2?style=for-the-badge)
+
+<br clear="left"/>
 
 <br>
 
