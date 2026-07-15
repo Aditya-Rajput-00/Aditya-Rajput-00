@@ -12,9 +12,10 @@
 **Data Science • Python • AI • Machine Learning • Automation**
 
 </div>
+
 <div align="center">
 
-###  About Me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="35px">
+### About Me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="35px">
 
 </div>
 
@@ -36,6 +37,10 @@
 <td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" width="280">
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -73,14 +78,6 @@
 **🌱 Currently Learning**
 <br>
 `DSA (Python)` `Advanced ML` `LLMs` `AI Automation` `MongoDB` `Open Source`
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 `🎓 Student`  `🐍 Pythonist`  `📊 Data Nerd`  `🤖 AI Explorer`  `🌱 Always Learning`
 
