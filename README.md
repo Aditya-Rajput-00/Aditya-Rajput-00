@@ -44,46 +44,35 @@
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Skill / Teach Stack
 
 </div>
-
-<table>
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"/>
-
-</td>
-
-<td width="75%" valign="top">
 
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.icons8.com/color/40/python.png"/>
-<img src="https://img.icons8.com/color/40/r-project.png"/>
-<img src="https://img.icons8.com/color/40/c-programming.png"/>
-<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/40/html-5.png"/>
-<img src="https://img.icons8.com/color/40/css3.png"/>
-<img src="https://img.icons8.com/color/40/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
 </p>
 
 ---
 
 ### 🤖 AI & Data Science
 
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `NLP` • `Data Science` • `EDA` • `Feature Engineering`
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Data Science` • `EDA` • `Feature Engineering`
 
 ---
 
 ### 📊 Data Visualization & BI
 
 <p>
-<img src="https://img.icons8.com/color/40/power-bi.png"/>
-<img src="https://img.icons8.com/color/40/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
 </p>
 
 `DAX` • `Power Query`
@@ -99,10 +88,10 @@
 ### ⚙️ Automation & Tools
 
 <p>
-<img src="https://img.icons8.com/color/40/git.png"/>
-<img src="https://img.icons8.com/color/40/github--v1.png"/>
-<img src="https://img.icons8.com/color/40/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/40/google-colab.png"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
 </p>
 
 `Jupyter Notebook` • `n8n`
@@ -112,23 +101,20 @@
 ### 🗄️ Databases
 
 <p>
-<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/40/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning
 
-`DSA (Python)` • `Advanced ML` • `LLMs` • `AI Automation` • `MongoDB` • `Open Source`
+`DSA (Python)` • `Advanced Machine Learning` • `LLMs` • `AI Automation` • `MongoDB` • `Open Source`
 
-</td>
-
-</tr>
-</table>
+<br>
 
 <div align="center">
 
-`🎓 Student` • `🐍 Pythonist` • `📊 Data Nerd` • `🤖 AI Explorer` • `🌱 Always Learning`
+`🎓 Student` &nbsp; `🐍 Pythonist` &nbsp; `📊 Data Nerd` &nbsp; `🤖 AI Explorer` &nbsp; `🌱 Always Learning`
 
 </div>
