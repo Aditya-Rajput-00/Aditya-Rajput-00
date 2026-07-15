@@ -44,62 +44,108 @@
 
 <div align="center">
 
-## 💻 Skills / Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45"> Some Languages and Tools
 
 </div>
 
-<table>
-<tr>
+### 👨‍💻 Programming Languages
 
-<td width="30%" align="center">
+<p>
+<img src="https://img.icons8.com/color/48/python.png"/>
+<img src="https://img.icons8.com/color/48/r-project.png"/>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+</p>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+### 🤖 AI & Data Science
 
-</td>
+<p>
+`AI` &nbsp;
+`Machine Learning` &nbsp;
+`Deep Learning` &nbsp;
+`NLP` &nbsp;
+`Data Science` &nbsp;
+`EDA` &nbsp;
+`Feature Engineering`
+</p>
 
-<td width="70%">
+### 📊 Data Visualization & BI
 
-**👨‍💻 Programming Languages**
-<br>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=r,c,mysql,html,css,js" />
+<p>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+&nbsp;
+`DAX`
+&nbsp;
+`Power Query`
+</p>
 
-**🤖 AI & Data Science**
-<br>
-`AI` `ML` `Deep Learning` `NLP` `Data Science` `EDA` `Feature Engineering`
+### 📚 Python Libraries
 
-**📊 Data Visualization & BI**
-<br>
-<img src="https://skillicons.dev/icons?i=powerbi" />
-`Power BI` `Excel` `DAX` `Power Query`
+<p>
 
-**📚 Python Libraries**
-<br>
-`Pandas` `NumPy` `Matplotlib` `Plotly` `Scikit-learn` `Streamlit`
+`Pandas`
+&nbsp;
+`NumPy`
+&nbsp;
+`Matplotlib`
+&nbsp;
+`Plotly`
+&nbsp;
+`Scikit-learn`
+&nbsp;
+`Streamlit`
 
-**⚙️ Automation & Tools**
-<br>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=git,vscode,jupyter" />
-`n8n` `Google Colab`
+</p>
 
-**🗄️ Databases**
-<br>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
+### ⚙️ Automation & Tools
 
-**🌱 Currently Learning**
-<br>
-`DSA (Python)` `Advanced ML` `LLMs` `AI Automation` `MongoDB` `Open Source`
+<p>
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/github--v1.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/google-colab.png"/>
+&nbsp;
+`Jupyter`
+&nbsp;
+`n8n`
+</p>
 
-</td>
+### 🗄️ Databases
 
-</tr>
-</table>
+<p>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+</p>
+
+### 🌱 Currently Learning
+
+<p>
+
+`DSA (Python)`
+&nbsp;
+`Advanced ML`
+&nbsp;
+`LLMs`
+&nbsp;
+`AI Automation`
+&nbsp;
+`MongoDB`
+&nbsp;
+`Open Source`
+
+</p>
 
 <div align="center">
 
-`🎓 Student` `🐍 Pythonist` `📊 Data Nerd` `🤖 AI Explorer` `🌱 Always Learning`
+`🎓 Student` &nbsp;
+`🐍 Pythonist` &nbsp;
+`📊 Data Nerd` &nbsp;
+`🤖 AI Explorer` &nbsp;
+`🌱 Always Learning`
 
 </div>
 
