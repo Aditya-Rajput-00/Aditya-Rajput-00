@@ -132,12 +132,3 @@
 `🎓 Student` • `🐍 Pythonist` • `📊 Data Nerd` • `🤖 AI Explorer` • `🌱 Always Learning`
 
 </div>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`🎓 Student`  `🐍 Pythonist`  `📊 Data Nerd`  `🤖 AI Explorer`  `🌱 Always Learning`
-
-</div>
