@@ -44,20 +44,90 @@
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Skill / Teach Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Some Languages and Tools
 
 </div>
+
+<table>
+<tr>
+
+<td width="30%" valign="top">
+
+
+
+
+
+<pre>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+╭──────────────────────────────╮
+│ 💻 DEBUGADI TERMINAL         │
+├──────────────────────────────┤
+│ DebugAdi@ai:~$ python        │
+│                              │
+│ >>> import pandas as pd      │
+│ ✓ loaded                     │
+│                              │
+│ >>> import sklearn           │
+│ ✓ loaded                     │
+│                              │
+│ >>> from transformers import │
+│ ... import pipeline          │
+│ ✓ loaded                     │
+│                              │
+│ >>> train_model()            │
+│ Training... ██████████ 100%  │
+│                              │
+│ >>> git add .                │
+│ >>> git commit -m            │
+│ "Improve README"             │
+│                              │
+│ >>> git push origin main     │
+│                              │
+│ ✔ Done                       │
+│                              │
+│ DebugAdi@ai:~$ █             │
+╰──────────────────────────────╯
+
+
+
+
+
+
+
+
+  
+
+  
+</pre>
+
+</td>
+
+<td width="70%" valign="top">
 
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/40/python.png"/>
+<img src="https://img.icons8.com/color/40/r-project.png"/>
+<img src="https://img.icons8.com/color/40/c-programming.png"/>
+<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/40/html-5.png"/>
+<img src="https://img.icons8.com/color/40/css3.png"/>
+<img src="https://img.icons8.com/color/40/javascript.png"/>
 </p>
 
 ---
@@ -71,8 +141,8 @@
 ### 📊 Data Visualization & BI
 
 <p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
+<img src="https://img.icons8.com/color/40/power-bi.png"/>
+<img src="https://img.icons8.com/color/40/microsoft-excel-2019.png"/>
 </p>
 
 `DAX` • `Power Query`
@@ -88,10 +158,10 @@
 ### ⚙️ Automation & Tools
 
 <p>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
+<img src="https://img.icons8.com/color/40/git.png"/>
+<img src="https://img.icons8.com/color/40/github--v1.png"/>
+<img src="https://img.icons8.com/color/40/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/40/google-colab.png"/>
 </p>
 
 `Jupyter Notebook` • `n8n`
@@ -101,17 +171,20 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/40/mongodb.png"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning
 
-`DSA (Python)` • `Advanced Machine Learning` • `LLMs` • `AI Automation` • `MongoDB` • `Open Source`
+`DSA (Python)` • `Advanced ML` • `LLMs` • `AI Automation` • `MongoDB` • `Open Source`
 
-<br>
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
