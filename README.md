@@ -46,6 +46,12 @@
 
 ## 💻 Skills / Tech Stack
 
+</div>
+
+<table>
+<tr>
+<td width="70%">
+
 **👨‍💻 Programming Languages**
 <br>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
@@ -78,6 +84,17 @@
 **🌱 Currently Learning**
 <br>
 `DSA (Python)` `Advanced ML` `LLMs` `AI Automation` `MongoDB` `Open Source`
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 `🎓 Student`  `🐍 Pythonist`  `📊 Data Nerd`  `🤖 AI Explorer`  `🌱 Always Learning`
 
