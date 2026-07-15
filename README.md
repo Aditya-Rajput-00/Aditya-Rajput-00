@@ -50,6 +50,13 @@
 
 <table>
 <tr>
+
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+
+</td>
+
 <td width="70%">
 
 **👨‍💻 Programming Languages**
@@ -86,9 +93,15 @@
 `DSA (Python)` `Advanced ML` `LLMs` `AI Automation` `MongoDB` `Open Source`
 
 </td>
-<td width="30%" align="center">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+</tr>
+</table>
+
+<div align="center">
+
+`🎓 Student` `🐍 Pythonist` `📊 Data Nerd` `🤖 AI Explorer` `🌱 Always Learning`
+
+</div>
 
 </td>
 </tr>
