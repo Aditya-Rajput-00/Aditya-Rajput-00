@@ -1,101 +1,107 @@
 <div align="center">
-
-<img src="./assets/ascii_face.png" alt="Aditya Singh" width="340"/>
-
-<a href="https://github.com/Aditya-Rajput-00">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=06D6A0&center=true&vCenter=true&width=600&lines=Aditya+Singh;Data+Science+Student;AI+%26+Data+Analytics+Enthusiast;Power+BI+Developer" alt="Typing SVG" />
-</a>
-
-<br>
-
-![OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-22%20years-06D6A0?style=for-the-badge)
-![Host](https://img.shields.io/badge/Host-Sri%20Balaji%20University-EF476F?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Aditya+Singh;DebugAdi+%7C+BCA+(Data+Science)+Student" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
-## 🖥️&nbsp; About Me
+### 👋 About Me
 
-<table>
-<tr>
-<td><b>🎓 Education</b></td>
-<td>BCA (Data Science) @ Sri Balaji University, Pune</td>
-</tr>
-<tr>
-<td><b>💼 Role</b></td>
-<td>Data Science Student · AI &amp; Data Analytics Enthusiast · Power BI Developer</td>
-</tr>
-<tr>
-<td><b>🛠️ Tools</b></td>
-<td>VS Code · Cursor · Git · Power BI Desktop · Jupyter Notebook</td>
-</tr>
-<tr>
-<td><b>🗣️ Languages</b></td>
-<td>English · Hindi</td>
-</tr>
-<tr>
-<td><b>💻 Programming</b></td>
-<td>Python · SQL · JavaScript · HTML · CSS · DAX</td>
-</tr>
-</table>
+**BCA (Data Science) Student | Python • AI • Machine Learning • Data Science • Automation**
 
-<br>
+I'm **DebugAdi** — a passionate learner who believes in **"Learning by Building"**. I love turning data into insights and building practical AI & automation solutions that solve real-world problems.
 
-## 🧩&nbsp; Tech Stack
+Currently focused on **Machine Learning, Data Science, and AI Automation**.
+
+---
+
+### 🚀 Tech Stack
+
+**Languages & Core Technologies**
+- **Python** 🐍
+- **SQL** 🗄
+- **HTML, CSS, JavaScript** (Basics)
+
+**AI & Data Science**
+- Machine Learning
+- Data Analysis & Visualization
+- Pandas • NumPy
+- Power BI 📊
+
+**Tools & Others**
+- n8n (Automation)
+- Git & GitHub
+- VS Code
+
+---
+
+### 🛠 Tools I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+*(We can add more badges later)*
+
+---
+
+### 📂 Featured Projects
+
+- **🛡 InfluenceGuard-AI** — Fake Influencer Detection using Machine Learning
+- **🏙 Smart City Dashboard** — Interactive Power BI Analytics Dashboard
+- **🤖 Telegram Restaurant Chatbot** — AI-powered conversational bot
+
+→ Check out all my projects in the **Repositories** tab!
+
+---
+
+### 📊 GitHub Stats
+
+![DebugAdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajput-00&theme=radical&hide_border=true)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aditya-Rajput-00&theme=radical&column=4&margin-w=15)
+
+---
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms (Python)
+- Advanced Machine Learning
+- AI Automation & System Design
+- Open Source Contribution
+
+### 🎯 2026 Goals
+- Secure a **Data Science / AI Internship**
+- Become an active **Open Source Contributor**
+- Build more impactful AI projects
+- Grow the **DebugAdi** brand
+
+---
+
+### 🤝 Connect With Me
 
 <div align="center">
 
-<br><b>Backend</b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-
-<br><b>Frontend</b><br>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br><b>Data &amp; AI</b><br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00CC66?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-USERNAME)
 
 </div>
 
-<br>
+**Email:** your.email@gmail.com
 
-## 📊&nbsp; GitHub Stats
+---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Rajput-00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rajput-00&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Rajput-00&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
 </div>
 
-<br>
+---
 
-## 📫&nbsp; Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghstudent2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-datascience-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh00-ai)
-
-</div>
-
-<div align="center">
-
-<br>
-
-*"Turning data into decisions, one insight at a time."*
-
-</div>
+**Made with ❤️ by DebugAdi**
