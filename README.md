@@ -1,8 +1,5 @@
 <div align="center">
 
-<details>
-<summary>📛 Click to expand banner</summary>
-
 <pre align="center">
 ██████╗ ███████╗██████╗ ██╗   ██╗ ██████╗  █████╗ ██████╗ ██╗
 ██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝ ██╔══██╗██╔══██╗██║
@@ -12,158 +9,80 @@
 ╚═════╝ ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝
 </pre>
 
-</details>
-
 **Data Science • Python • AI • Machine Learning • Automation**
 
 </div>
 
 <div align="center">
-
-### About Me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="35px">
-
+  <h2>About Me</h2>
 </div>
 
 <table>
 <tr>
-<td width="65%">
+<td>
 
 - 🎓 **BCA (Data Science)** student @ Sri Balaji University, Pune `2023–2027`
 - 🚀 Passionate about **AI · Data Science · Machine Learning · Python · Automation**
-- 🐍 Build real-world applications & solve practical problems with **Python**
+- 🐍 Building real-world applications and solving practical problems
 - 📊 Skilled in **Data Analysis, Power BI, SQL, Pandas, NumPy**
-- 🤖 Exploring **AI-powered apps, automation workflows & intelligent systems**
-- 🌱 Currently leveling up: **DSA (Python) → Advanced ML → Open Source**
+- 🤖 Exploring **AI-powered apps, intelligent systems & automation**
+- 🌱 Currently leveling up: **DSA → Advanced ML → LLMs → Open Source**
 - ⚡ Known online as **`DebugAdi`**
 
-> 🎯 **Mission:** Build impactful AI products, contribute to open source, and grow into a serious AI & Data Science dev.
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" width="280">
+> 🎯 **Mission:** Build impactful AI products, contribute to open source, and become a strong AI & Data Science engineer.
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">  Skills / Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Skills & Tech Stack
+
 </div>
 
-<table>
-<tr>
-
-<td width="30%" valign="top">
-
-<details>
-<summary>💻 Click to expand terminal</summary>
-
-<pre>
-╭──────────────────────────────╮
-│ 💻 DEBUGADI TERMINAL         │
-├──────────────────────────────┤
-│ DebugAdi@ai:~$ python        │
-│                              │
-│ >>> import pandas as pd      │
-│ ✓ loaded                     │
-│                              │
-│ >>> import sklearn           │
-│ ✓ loaded                     │
-│                              │
-│ >>> from transformers import │
-│ ... import pipeline          │
-│ ✓ loaded                     │
-│                              │
-│ >>> train_model()            │
-│ Training... ██████████ 100%  │
-│                              │
-│ >>> git add .                │
-│ >>> git commit -m            │
-│ "Improve README"             │
-│                              │
-│ >>> git push origin main     │
-│                              │
-│ ✔ Done                       │
-│                              │
-│ DebugAdi@ai:~$ █             │
-╰──────────────────────────────╯
-</pre>
-
-</details>
-
-</td>
-
-<td width="70%" valign="top">
+<!-- Aesthetic Skills Section -->
+<div align="center">
 
 ### 👨‍💻 Programming Languages
-
 <p>
-<img src="https://img.icons8.com/color/40/python.png"/>
-<img src="https://img.icons8.com/color/40/r-project.png"/>
-<img src="https://img.icons8.com/color/40/c-programming.png"/>
-<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/40/html-5.png"/>
-<img src="https://img.icons8.com/color/40/css3.png"/>
-<img src="https://img.icons8.com/color/40/javascript.png"/>
+<img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
 </p>
 
----
+### 🤖 AI & Machine Learning
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Natural Language Processing` • `LLMs` • `Transformers`
 
-### 🤖 AI & Data Science
-
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Data Science` • `EDA` • `Feature Engineering`
-
----
-
-### 📊 Data Visualization & BI
-
+### 📊 Data Science & Visualization
 <p>
-<img src="https://img.icons8.com/color/40/power-bi.png"/>
-<img src="https://img.icons8.com/color/40/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
 </p>
+`Pandas` • `NumPy` • `Matplotlib` • `Plotly` • `Scikit-learn` • `DAX` • `Power Query` • `EDA`
 
-`DAX` • `Power Query`
-
----
-
-### 📚 Python Libraries
-
-`Pandas` • `NumPy` • `Matplotlib` • `Plotly` • `Scikit-learn` • `Streamlit`
-
----
-
-### ⚙️ Automation & Tools
-
+### ⚙️ Tools & Automation
 <p>
-<img src="https://img.icons8.com/color/40/git.png"/>
-<img src="https://img.icons8.com/color/40/github--v1.png"/>
-<img src="https://img.icons8.com/color/40/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/40/google-colab.png"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+<img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+<img src="https://img.icons8.com/color/48/google-colab.png" alt="Colab"/>
 </p>
-
-`Jupyter Notebook` • `n8n`
-
----
+`Jupyter Notebook` • `Streamlit` • `n8n`
 
 ### 🗄️ Databases
-
 <p>
-<img src="https://img.icons8.com/color/40/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/40/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+<img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
 </p>
 
----
-
-### 🌱 Currently Learning
-
-`DSA (Python)` • `Advanced ML` • `LLMs` • `AI Automation` • `MongoDB` • `Open Source`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -173,31 +92,22 @@
 
 <br>
 
-<br>
-
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px"> GitHub Statistics
 
 <table>
 <tr>
-
-<td width="50%" align="center">
-
+<td align="center">
 <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
 </td>
-
-<td width="50%" align="center">
-
+</tr>
+<tr>
+<td align="center">
 <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Aditya-Rajput-00&theme=github_dark&hide_border=true"/>
-
 </td>
-
 </tr>
 </table>
-
-<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&theme=github-dark&hide_border=true"/>
 
@@ -214,34 +124,17 @@ I'm always open to discussing <b>AI, Data Science, Python, Machine Learning, Aut
 Feel free to connect, collaborate, or just say hello! 🚀
 </p>
 
-<p align="center">
-
-<a href="https://github.com/Aditya-Rajput-00">
-  <img src="https://img.icons8.com/bubbles/60/github.png" width="58" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adityasingh00-ai/">
-  <img src="https://img.icons8.com/bubbles/60/linkedin.png" width="58" alt="LinkedIn"/>
-</a>
-
-<a href="https://x.com/debug_adi">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="52" alt="X" style="vertical-align:middle;"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.icons8.com/bubbles/60/instagram-new.png" width="58" alt="Instagram"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.icons8.com/bubbles/60/gmail-new.png" width="58" alt="Gmail"/>
-</a>
-
+<p>
+<a href="https://github.com/Aditya-Rajput-00"><img src="https://img.icons8.com/bubbles/60/github.png" width="58" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/adityasingh00-ai/"><img src="https://img.icons8.com/bubbles/60/linkedin.png" width="58" alt="LinkedIn"/></a>
+<a href="https://x.com/debug_adi"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="52" alt="X"/></a>
+<a href="https://www.instagram.com/aditya.singh.00/"><img src="https://img.icons8.com/bubbles/60/instagram-new.png" width="58" alt="Instagram"/></a>
+<a href="mailto:adityasinghstudent2002@gmail.com"><img src="https://img.icons8.com/bubbles/60/gmail-new.png" width="58" alt="Gmail"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-Rajput-00&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br><br>
-
 <i>⭐ Thanks for visiting my profile! Happy Coding! 🚀</i>
 
 </div>
