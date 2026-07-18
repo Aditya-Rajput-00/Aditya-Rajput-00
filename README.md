@@ -1,5 +1,8 @@
 <div align="center">
 
+<details>
+<summary>📛 Click to expand banner</summary>
+
 <pre align="center">
 ██████╗ ███████╗██████╗ ██╗   ██╗ ██████╗  █████╗ ██████╗ ██╗
 ██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝ ██╔══██╗██╔══██╗██║
@@ -8,6 +11,8 @@
 ██████╔╝███████╗██████╔╝╚██████╔╝╚██████╔╝██║  ██║██████╔╝██║
 ╚═════╝ ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝
 </pre>
+
+</details>
 
 **Data Science • Python • AI • Machine Learning • Automation**
 
@@ -52,26 +57,10 @@
 
 <td width="30%" valign="top">
 
-
-
-
+<details>
+<summary>💻 Click to expand terminal</summary>
 
 <pre>
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
 ╭──────────────────────────────╮
 │ 💻 DEBUGADI TERMINAL         │
 ├──────────────────────────────┤
@@ -100,18 +89,9 @@
 │                              │
 │ DebugAdi@ai:~$ █             │
 ╰──────────────────────────────╯
-
-
-
-
-
-
-
-
-  
-
-  
 </pre>
+
+</details>
 
 </td>
 
