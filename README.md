@@ -97,11 +97,7 @@
 ## <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px"> GitHub Statistics
 
 <table>
-<tr>
-<td align="center">
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aditya-Rajput-00&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</td>
-</tr>
+
 <tr>
 <td align="center">
 <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Aditya-Rajput-00&theme=github_dark&hide_border=true"/>
