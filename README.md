@@ -46,7 +46,11 @@
 <!-- Aesthetic Skills Section -->
 <div align="center">
 
-### 👨‍💻 Programming Languages
+<div align="center">
+
+✦ ────────── 👨‍💻 **『 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 』** ────────── ✦
+
+</div>
 <p>
 <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
 <img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
@@ -57,10 +61,28 @@
 <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
 </p>
 
-### 🤖 AI & Machine Learning
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Natural Language Processing` • `LLMs` • `Transformers`
+<div align="center"> 
+ 
+✦ ────────── 🤖 **『 𝗔𝗜 & 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 』** ────────── ✦ 
+ 
+</div>
+<div align="center">
 
-### 📊 Data Science & Visualization
+<img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&logo=probot&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/DL-FF2D95?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-00FFA3?style=flat-square&logo=spacy&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/LLMs-FFB000?style=flat-square&logo=openai&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Transformers-FF4D00?style=flat-square&logo=huggingface&logoColor=white" />
+
+</div>
+
+<div align="center"> 
+
+ 
+✦ ────────── 📊 **『 𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 & 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 』** ────────── ✦ 
+ 
+</div>
 
 <p align="center">
 
@@ -94,7 +116,11 @@
 
 </p>
 
-### ⚙️ Tools & Automation
+<div align="center"> 
+ 
+✦ ────────── ⚙️ **『 𝗧𝗢𝗢𝗟𝗦 & 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗢𝗡 』** ────────── ✦ 
+ 
+</div>
 <p>
 <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
 <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
@@ -106,7 +132,11 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+<div align="center"> 
+ 
+✦ ────────── 🗄️ **『 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 』** ────────── ✦ 
+ 
+</div>
 <p>
 <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
 <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
