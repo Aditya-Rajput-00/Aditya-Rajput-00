@@ -61,11 +61,38 @@
 `Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Natural Language Processing` • `LLMs` • `Transformers`
 
 ### 📊 Data Science & Visualization
-<p>
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</a>
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/DAX-01B4E7?style=for-the-badge&logo=powerbi&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerbi&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+
 </p>
-`Pandas` • `NumPy` • `Matplotlib` • `Plotly` • `Scikit-learn` • `DAX` • `Power Query` • `EDA`
 
 ### ⚙️ Tools & Automation
 <p>
@@ -73,8 +100,11 @@
 <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
 <img src="https://img.icons8.com/color/48/google-colab.png" alt="Colab"/>
+</p><p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
-`Jupyter Notebook` • `Streamlit` • `n8n`
 
 ### 🗄️ Databases
 <p>
