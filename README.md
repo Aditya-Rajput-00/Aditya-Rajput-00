@@ -165,7 +165,7 @@
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Rajput-00&theme=github-dark&hide_border=true"/>
+
 
 </div>
 
