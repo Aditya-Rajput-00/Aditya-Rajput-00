@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝
 </pre>
 
-**Data Science • Python • AI • Machine Learning • Automation**
+**Data Science • Python • AI • Machine Learning • Automation • Backend**
 
 </div>
 
