@@ -194,3 +194,5 @@ Feel free to connect, collaborate, or just say hello! 🚀
 <i>⭐ Thanks for visiting my profile! Happy Coding! 🚀</i>
 
 </div>
+
+<img src="./assets/neural-star.svg" width="100%" alt="Animated cyan star divider" />
